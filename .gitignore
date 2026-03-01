@@ -41,6 +41,12 @@ build/Release
 node_modules/
 jspm_packages/
 
+# Compiled output
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
